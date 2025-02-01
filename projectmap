@@ -1,0 +1,11 @@
+/public
+  /index.html
+/src
+  /components
+    - NoteCard.js
+    - NoteList.js
+    - Modal.js
+    - RecordButton.js
+  /App.js
+  /index.js
+  /App.css
